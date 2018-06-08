@@ -56,7 +56,7 @@
     "referee": "~1.2.0",
     "safe-buffer": "^5.1.0",
     "standard": "^11.0.0",
-    "tape": "^4.7.0",
+    "tape": "4.9.0",
     "trickle": "0.0.2"
   },
   "scripts": {
